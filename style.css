@@ -1,0 +1,53 @@
+.sidenav {
+  height: 100%;
+  width: 300px;
+  top:0;
+  left: 0;
+  border: 5px ridge white;
+  position: fixed;
+  background-image: url(images/spa.gif);
+  padding: 10px;
+  font-family: times;
+  }
+.sidenav a {
+  font-size: 30px;
+  color: #c41010;
+  text-decoration: none;
+  
+}
+.sidenav ul {
+  list-style-image: url(images/newr_5.gif);
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.sidenav h1 {
+  color: #fc037f;
+  font-size: 40px;
+  margin: 0;
+  font-family: times;
+  
+}
+.sidenav h2 {
+  color: #03fce7;
+  font-size: 20px;
+  margin: 0;
+  font-family: times;
+}
+.main {
+  margin-left: 320px;
+  font-family: times;
+  color: #fcba03;
+  padding: 10px;
+  font-size: 24px;
+  }
+.main p {
+  margin: 10px;
+}
+.main a {
+  color:#c41010;
+}
+.main h1 {
+  display: inline;
+  font-size: 30;
+  text-decoration: underline;
+}
