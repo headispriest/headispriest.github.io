@@ -8,6 +8,8 @@
   background-image: url(images/spa.gif);
   padding: 10px;
   font-family: times;
+  overflow-x: hidden;
+  overflow-y: scroll;
   }
 .sidenav a {
   font-size: 30px;
